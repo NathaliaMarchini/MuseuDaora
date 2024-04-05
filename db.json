@@ -1,13 +1,24 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "fossilRex": [
+    {
+      "id": "1",
+      "nome": "fóssil de um rex",
+      "url": "./src/img/rex.png"
     }
-  }
+  ],
+
+  "conteudinho": [
+    {
+      "id": "1",
+      "text": "WELCOME!",
+      "text2": "Bem-vindo ao Museu de Paleontologia: Descubra as Maravilhas Antigas da Terra.\nExplore nosso museu virtual e descubra uma grande variedade de criaturas e maravilhas antigas.\nDe feras colossais a pequenos fósseis, cada exposição oferece um vislumbre do passado distante do nosso planeta.\nJunte-se a nós numa viagem através de épocas geológicas, testemunhando as maravilhas da evolução e as tragédias da extinção.\nMergulhe em mares antigos e explore paisagens esquecidas que moldaram o nosso mundo.",
+      "text3": "Come on!"
+    }
+  ],
+  "botaoF": [
+    {
+      "id": "1",
+      "url": "./src/img/paw.png"
+    }
+  ]
+}
